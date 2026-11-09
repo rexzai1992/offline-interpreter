@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="t d">
+<title id="t">Offline Interpreter</title>
+<desc id="d">Two people, two languages, one phone, no internet.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0E1520"/><stop offset="1" stop-color="#1C3657"/></linearGradient>
+<radialGradient id="ga" cx="0.17" cy="0.4" r="0.42"><stop offset="0" stop-color="#4F8CFF" stop-opacity="0.34"/><stop offset="1" stop-color="#4F8CFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="gb" cx="0.88" cy="0.95" r="0.5"><stop offset="0" stop-color="#2ECC9A" stop-opacity="0.22"/><stop offset="1" stop-color="#2ECC9A" stop-opacity="0"/></radialGradient>
+<linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4F8CFF"/><stop offset="1" stop-color="#2ECC9A"/></linearGradient>
+<clipPath id="r"><rect width="1280" height="400" rx="28"/></clipPath>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity="0.45"/></filter>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1280" height="400" fill="url(#bg)"/>
+<rect width="1280" height="400" fill="url(#ga)"/>
+<rect width="1280" height="400" fill="url(#gb)"/>
+<g filter="url(#sh)" transform="translate(76 98) scale(0.42) translate(-152 -260)"><rect x="152" y="260" width="393" height="262" rx="72" fill="#4F8CFF"/>
+<polygon points="208,512 165,577 300,518" fill="#4F8CFF"/>
+<rect x="214" y="345" width="269" height="30" rx="15" fill="#101828"/>
+<rect x="214" y="412" width="193" height="30" rx="15" fill="#101828"/>
+<rect x="480" y="502" width="393" height="262" rx="72" fill="#2ECC9A"/>
+<polygon points="722,508 858,447 815,512" fill="#2ECC9A"/>
+<rect x="542" y="587" width="269" height="30" rx="15" fill="#101828"/>
+<rect x="542" y="655" width="193" height="30" rx="15" fill="#101828"/></g>
+<text x="468" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="66" font-weight="800" fill="#EEF2F6" letter-spacing="-1">Offline Interpreter</text>
+<text x="470" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="27" fill="#9AA7B6">Two people · Two languages · One phone · <tspan fill="#2ECC9A" font-weight="700">Zero internet</tspan></text>
+<g fill="url(#wave)" opacity="0.9"><rect x="470" y="306" width="6" height="20" rx="3"/><rect x="482" y="306" width="6" height="20" rx="3"/><rect x="494" y="304" width="6" height="25" rx="3"/><rect x="506" y="305" width="6" height="22" rx="3"/><rect x="518" y="302" width="6" height="27" rx="3"/><rect x="530" y="303" width="6" height="26" rx="3"/><rect x="542" y="304" width="6" height="24" rx="3"/><rect x="554" y="301" width="6" height="30" rx="3"/><rect x="566" y="304" width="6" height="25" rx="3"/><rect x="578" y="300" width="6" height="31" rx="3"/><rect x="590" y="302" width="6" height="27" rx="3"/><rect x="602" y="302" width="6" height="28" rx="3"/><rect x="614" y="300" width="6" height="33" rx="3"/><rect x="626" y="296" width="6" height="39" rx="3"/><rect x="638" y="301" width="6" height="30" rx="3"/><rect x="650" y="300" width="6" height="32" rx="3"/><rect x="662" y="297" width="6" height="38" rx="3"/><rect x="674" y="294" width="6" height="43" rx="3"/><rect x="686" y="297" width="6" height="38" rx="3"/><rect x="698" y="298" width="6" height="36" rx="3"/><rect x="710" y="294" width="6" height="45" rx="3"/><rect x="722" y="300" width="6" height="31" rx="3"/><rect x="734" y="294" width="6" height="43" rx="3"/><rect x="746" y="299" width="6" height="34" rx="3"/><rect x="758" y="300" width="6" height="32" rx="3"/><rect x="770" y="300" width="6" height="32" rx="3"/><rect x="782" y="299" width="6" height="34" rx="3"/><rect x="794" y="295" width="6" height="42" rx="3"/><rect x="806" y="300" width="6" height="32" rx="3"/><rect x="818" y="298" width="6" height="37" rx="3"/><rect x="830" y="297" width="6" height="38" rx="3"/><rect x="842" y="300" width="6" height="33" rx="3"/><rect x="854" y="298" width="6" height="35" rx="3"/><rect x="866" y="302" width="6" height="28" rx="3"/><rect x="878" y="302" width="6" height="27" rx="3"/><rect x="890" y="302" width="6" height="28" rx="3"/><rect x="902" y="300" width="6" height="33" rx="3"/><rect x="914" y="302" width="6" height="29" rx="3"/><rect x="926" y="302" width="6" height="27" rx="3"/><rect x="938" y="302" width="6" height="29" rx="3"/><rect x="950" y="302" width="6" height="27" rx="3"/><rect x="962" y="304" width="6" height="24" rx="3"/><rect x="974" y="302" width="6" height="27" rx="3"/><rect x="986" y="304" width="6" height="25" rx="3"/><rect x="998" y="306" width="6" height="20" rx="3"/><rect x="1010" y="306" width="6" height="21" rx="3"/><rect x="1022" y="306" width="6" height="20" rx="3"/><rect x="1034" y="306" width="6" height="20" rx="3"/><rect x="1046" y="307" width="6" height="18" rx="3"/><rect x="1058" y="308" width="6" height="15" rx="3"/><rect x="1070" y="308" width="6" height="15" rx="3"/><rect x="1082" y="310" width="6" height="12" rx="3"/><rect x="1094" y="310" width="6" height="11" rx="3"/><rect x="1106" y="310" width="6" height="12" rx="3"/><rect x="1118" y="310" width="6" height="13" rx="3"/><rect x="1130" y="308" width="6" height="15" rx="3"/><rect x="1142" y="308" width="6" height="15" rx="3"/><rect x="1154" y="307" width="6" height="18" rx="3"/><rect x="1166" y="306" width="6" height="20" rx="3"/><rect x="1178" y="306" width="6" height="21" rx="3"/></g>
+</g>
+</svg>

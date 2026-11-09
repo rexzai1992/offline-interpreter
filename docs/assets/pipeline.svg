@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="t">
+<title id="t">Pipeline: microphone, Silero VAD finds pauses, SenseVoice or Whisper turns speech into text, Hy-MT2 translates on llama.cpp, the original and translation appear on screen.</title>
+<rect width="1200" height="290" rx="24" fill="#141B24" stroke="#263241" stroke-width="2"/>
+<rect x="24" y="40" width="204" height="168" rx="18" fill="#1C2531" stroke="#263241" stroke-width="2"/>
+<rect x="24" y="58" width="4" height="132" rx="2" fill="#4F8CFF"/>
+<g fill="none" stroke="#4F8CFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(94.0 54)"><rect x="25" y="13" width="14" height="24" rx="7"/><path d="M19 31a13 13 0 0 0 26 0"/><path d="M32 44v7M25 51h14"/></g>
+<text x="126.0" y="144" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#EEF2F6">You talk</text>
+<text x="126.0" y="170" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#9AA7B6">the mic keeps</text>
+<text x="126.0" y="190" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#9AA7B6">listening</text><path d="M237 124.0h16m-6 -6l6 6l-6 6" fill="none" stroke="#8290A0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><rect x="262" y="40" width="204" height="168" rx="18" fill="#1C2531" stroke="#263241" stroke-width="2"/>
+<rect x="262" y="58" width="4" height="132" rx="2" fill="#4F8CFF"/>
+<g fill="none" stroke="#4F8CFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M337.0 81v10"/><path d="M346.0 75v22"/><path d="M355.0 69v34"/><path d="M364.0 77v18"/><path d="M373.0 72v28"/><path d="M382.0 80v12"/><path d="M391.0 76v20"/></g>
+<text x="364.0" y="144" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#EEF2F6">Silero VAD</text>
+<text x="364.0" y="170" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#9AA7B6">finds each pause</text>
+<text x="364.0" y="190" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#9AA7B6">in the audio</text><path d="M475 124.0h16m-6 -6l6 6l-6 6" fill="none" stroke="#8290A0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><rect x="500" y="40" width="204" height="168" rx="18" fill="#1C2531" stroke="#263241" stroke-width="2"/>
+<rect x="500" y="58" width="4" height="132" rx="2" fill="#4F8CFF"/>
+<g fill="none" stroke="#4F8CFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M582.0 74h40M582.0 86h30M582.0 98h36"/></g>
+<text x="602.0" y="144" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#EEF2F6">Speech to text</text>
+<text x="602.0" y="170" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#9AA7B6">SenseVoice or Whisper</text>
+<text x="602.0" y="190" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#9AA7B6">+ language checks</text><path d="M713 124.0h16m-6 -6l6 6l-6 6" fill="none" stroke="#8290A0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><rect x="738" y="40" width="204" height="168" rx="18" fill="#1C2531" stroke="#263241" stroke-width="2"/>
+<rect x="738" y="58" width="4" height="132" rx="2" fill="#2ECC9A"/>
+<text x="836.0" y="95" text-anchor="end" font-family="-apple-system, 'Hiragino Sans', 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="26" font-weight="700" fill="#2ECC9A">文</text><path d="M839.0 86h10m-4 -4l4 4l-4 4" fill="none" stroke="#2ECC9A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="853.0" y="95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#2ECC9A">A</text>
+<text x="840.0" y="144" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#EEF2F6">Hy-MT2 1.8B</text>
+<text x="840.0" y="170" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#9AA7B6">translates on llama.cpp</text>
+<text x="840.0" y="190" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#9AA7B6">with the conversation</text><path d="M951 124.0h16m-6 -6l6 6l-6 6" fill="none" stroke="#8290A0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><rect x="976" y="40" width="204" height="168" rx="18" fill="#1C2531" stroke="#263241" stroke-width="2"/>
+<rect x="976" y="58" width="4" height="132" rx="2" fill="#2ECC9A"/>
+<g transform="translate(1054.0 68) scale(0.066) translate(-152 -260)"><rect x="152" y="260" width="393" height="262" rx="72" fill="#4F8CFF"/>
+<polygon points="208,512 165,577 300,518" fill="#4F8CFF"/>
+<rect x="214" y="345" width="269" height="30" rx="15" fill="#101828"/>
+<rect x="214" y="412" width="193" height="30" rx="15" fill="#101828"/>
+<rect x="480" y="502" width="393" height="262" rx="72" fill="#2ECC9A"/>
+<polygon points="722,508 858,447 815,512" fill="#2ECC9A"/>
+<rect x="542" y="587" width="269" height="30" rx="15" fill="#101828"/>
+<rect x="542" y="655" width="193" height="30" rx="15" fill="#101828"/></g>
+<text x="1078.0" y="144" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#EEF2F6">On screen</text>
+<text x="1078.0" y="170" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#9AA7B6">original and</text>
+<text x="1078.0" y="190" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#9AA7B6">translation, ~1 s</text>
+<text x="600" y="256" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#9AA7B6">Everything above runs on the phone. No server, no account, works in airplane mode.</text>
+</svg>
