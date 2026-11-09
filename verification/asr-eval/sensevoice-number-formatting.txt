@@ -1,0 +1,44 @@
+== Mac voices (clean audio)
+  said: My flight is at seven forty five tomorrow morning from gate twenty three.
+    ITN on : My flight is at 745 tomorrow morning from G 23.
+    ITN off: my flight is at 745 tomorrow morning from gate 23
+  said: It costs three thousand five hundred yen.
+    ITN on : It costs 3,500 yen.
+    ITN off: it costs 3500 yen
+  said: Please call me at nine thirty.
+    ITN on : Please call me at 930.
+    ITN off: please call me at 930
+  said: The room number is twelve oh five.
+    ITN on : The room number is 1205.
+    ITN off: the room number is 1205
+  said: 三千円です。
+    ITN on : 三00円です。
+    ITN off: 三千円です
+  said: 電車は十時十五分に出ます。
+    ITN on : 電車は10時15分に出ます。
+    ITN off: 電車は10時15分に出ます
+  said: 二千五百円になります。
+    ITN on : 二五0百円になります。
+    ITN off: 2500円になります
+  said: お部屋は三百五号室です。
+    ITN on : お部屋は三5号室です。
+    ITN off: お部屋は三五号室です
+  said: 一共是三百五十块。
+    ITN on : 一共是350块。
+    ITN off: 一共是三百五十块
+  said: 火车十点十五分出发。
+    ITN on : 火车10点15分出发。
+    ITN off: 火车十点十五分出发
+  said: 我的房间是三零五号。
+    ITN on : 我的房间是305号。
+    ITN off: 我的房间是三零五号
+== Phone microphone recordings
+  s5_numbers_names:
+    ITN on : My flight is at 7,45 tomorrow morning from gate 23.
+    ITN off: my flight is at seven forty five tomorrow morning from gate twenty three
+  s5_numbers_names:
+    ITN on : Please tell I at been a smile that I will call him at 9,30.
+    ITN off: please tell i had been a smiled that i will call him at nine thirty
+  s4_handsfree_dialogue:
+    ITN on : 300円です。
+    ITN off: 30円です

@@ -1,0 +1,145 @@
+uncached prompt tokens over 48 requests: {'current': 3691, 'reordered': 2323}
+English->Japanese | Hi there! I'm Sarah. Is this seat taken?
+   cur ( 61 new): こんにちは！私はサラです。この席は空いていますか？
+   new ( 61 new): こんにちは！私はサラです。この席、空いていますか？  <diff>
+Japanese->English | どうぞ。
+   cur ( 83 new): Sure, here you go.
+   new ( 47 new): Sure, please.  <diff>
+English->Japanese | Oh cool, no worries. Hey, do you know if the last bus leaves at eleven or at midnight?
+   cur ( 79 new): おお、いいね。心配ないよ。えっと、最後のバスは11時か真夜中に出るか知ってる？
+   new ( 45 new): おお、いいね。心配ないよ。えっと、最後のバスが11時か真夜中に出るか知ってる？  <diff>
+Japanese->English | たぶん十二時だと思います。
+   cur ( 84 new): I think it’s probably at midnight.
+   new ( 50 new): I think it's around midnight.  <diff>
+English->Japanese | Ugh, that's a bummer. Could you tell your friend Ahmad I said thanks for the tip?
+   cur ( 85 new): ああ、残念だね。友達のアハマドに、このアドバイスをありがとうと伝えてくれないか？
+   new ( 51 new): ああ、残念だね。アフマドに、アドバイスをしてくれてありがとうと伝えてくれる？  <diff>
+Japanese->English | はい、伝えておきます。
+   cur ( 84 new): Sure, I’ll pass that on.
+   new ( 50 new): Yes, I’ll make sure to pass on that.  <diff>
+English->Malay | Hi there! I'm Sarah. Is this seat taken?
+   cur ( 61 new): Hai! Saya Sarah. Tempat ini sudah ditempah ke?
+   new ( 19 new): Hai! Saya Sarah. Tempat ini sudah ditempah atau tidak?  <diff>
+Malay->English | Tak, duduklah.
+   cur (  9 new): Oh, just sit down.
+   new ( 52 new): Oh, come on, sit down.  <diff>
+English->Malay | Oh cool, no worries. Hey, do you know if the last bus leaves at eleven or at midnight?
+   cur ( 83 new): Oh, baguslah, tak perlu risau. Hei, adakah kamu tahu sama ada bas terakhir berlepas pada pukul sebelas atau tengah malam?
+   new ( 49 new): Oh, baguslah, tak perlu risau. Hei, adakah kamu tahu sama ada bas terakhir berlepas pada pukul sebelas atau tengah malam?
+Malay->English | Rasanya pukul dua belas.
+   cur ( 85 new): It feels like it’s twelve o’clock.
+   new ( 51 new): It feels like it's twelve o'clock.  <diff>
+English->Malay | Ugh, that's a bummer. Could you tell your friend Ahmad I said thanks for the tip?
+   cur ( 85 new): Ugh, itu memang menyusahkan. Bolehkah kamu beritahu kawan kamu Ahmad saya ucap terima kasih atas nasihatnya?
+   new ( 51 new): Ugh, itu memang menyusahkan. Bolehkah kamu beritahu kawan kamu Ahmad yang saya ucapkan terima kasih atas nasihatnya?  <diff>
+Malay->English | Boleh, saya bagitahu dia.
+   cur ( 84 new): Sure, I’ll tell him.
+   new ( 50 new): Sure, I’ll tell him.
+Chinese->English | 你好，我叫小李。打扰一下可以吗？
+   cur ( 59 new): Hi, I’m Xiao Li. Could I interrupt you for a moment?
+   new ( 17 new): Hi, I'm Xiao Li. Could I bother you for a moment?  <diff>
+English->Chinese | Nope, go ahead.
+   cur ( 85 new): 不用了，你继续吧。
+   new ( 49 new): 不用了，你继续吧。
+Chinese->English | 这附近有没有开到很晚的小吃店？刚才那家已经关门了。
+   cur ( 77 new): Is there any snack place nearby that stays open late? That one just now already closed.
+   new ( 43 new): Is there any snack place that stays open late in this area? The one just now has already closed.  <diff>
+English->Chinese | It leaves at midnight, I think.
+   cur ( 80 new): 我觉得它半夜就关门了。
+   new ( 46 new): 我想它是在午夜就离开的。  <diff>
+Chinese->English | 太好了，谢谢你！那我跟王姐说我们十点在那儿碰头。
+   cur ( 78 new): Great, thanks! Let me tell Sister Wang we’ll meet there at ten o’clock.
+   new ( 44 new): Great, thanks! Let me tell Sister Wang we’ll meet there at ten o’clock.
+English->Chinese | Sure, I'll tell him.
+   cur ( 78 new): 没问题，我就会告诉他。
+   new ( 44 new): 没问题，我会告诉他。  <diff>
+Filipino->English | Hi, ako si Marco. Pwede bang magtanong?
+   cur ( 16 new): Hey, I’m Marco. Can I ask you something?
+   new ( 16 new): Hi, I’m Marco. Can I ask you a question?  <diff>
+English->Filipino | Nope, go ahead.
+   cur ( 91 new): Hindi, sige lang.
+   new ( 55 new): Hindi, sige lang.
+Filipino->English | May alam ka bang karinderya dito na bukas hanggang gabi? Sarado na yung kanina.
+   cur ( 86 new): Do you know of a restaurant here that’s open till late? The one earlier closed already.
+   new ( 52 new): Do you know of a restaurant here that's open till late? The one earlier closed already.  <diff>
+English->Filipino | It leaves at midnight, I think.
+   cur ( 90 new): Umalis siya sa hatinggabi, sa tingin ko.
+   new ( 56 new): Nagtatapos ito sa hatinggabi, sa tingin ko.  <diff>
+Filipino->English | Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.
+   cur ( 90 new): Thanks ha! I’ll tell Ate Liza we’re meeting there at 7 o’clock.
+   new ( 56 new): Thanks ha! I’ll tell Ate Liza that we’re meeting there at 7 o’clock.  <diff>
+English->Filipino | Sure, I'll tell him.
+   cur ( 90 new): Oo, sasabihin ko sa kaniya.
+   new ( 56 new): Oo, sasabihin ko sa kaniya.
+Malay->Traditional Chinese | Hai, saya Aiman. Boleh tolong tak?
+   cur ( 63 new): 嗨，我是 Aiman。可以幫個忙嗎？
+   new ( 21 new): 嗨，我是 Aiman。可以幫個忙嗎？
+Traditional Chinese->Malay | 沒有，請坐。
+   cur ( 86 new): Tidak, silakan duduk.
+   new ( 50 new): Tidak, silakan duduk.
+Malay->Traditional Chinese | Saya nak cari kedai mamak yang buka lewat malam. Yang tadi tu dah tutup lah.
+   cur ( 88 new): 我想要找一家晚上才開的餐館。剛才那家已經關門了。
+   new ( 54 new): 我想找一家晚上才開的餐館。剛才那家已經關門了。  <diff>
+Traditional Chinese->Malay | 我想是十二點。
+   cur ( 86 new): Saya rasa pukul dua belas.
+   new ( 52 new): Saya rasa pukul dua belas.
+Malay->Traditional Chinese | Okay, terima kasih banyak-banyak. Nanti saya bagitahu Siti kita jumpa dia kat sana pukul sepuluh.
+   cur ( 93 new): 好的，非常謝謝你。之後我會告訴Siti，我們十點在那裡見面吧。
+   new ( 59 new): 好的，非常謝謝。之後我會告訴Siti，我們十點在那裡見面吧。  <diff>
+Traditional Chinese->Malay | 好的，我會告訴他。
+   cur ( 95 new): Baik, saya akan beritahu dia.
+   new ( 61 new): Baik, saya akan beritahu dia.
+Japanese->Filipino | すみません、田中と申します。ちょっといいですか？
+   cur ( 67 new): Pasensya na, ako si Tanaka. Pwede ba tayong mag-usap sandali?
+   new ( 25 new): Pasensya na, ako si Tanaka. Pwede bang makausap mo ako sandali?  <diff>
+Filipino->Japanese | Hindi, umupo ka lang.
+   cur ( 95 new): ええ、座ってください。
+   new ( 59 new): ええ、座ってください。
+Japanese->Filipino | この近くに夜遅くまでやってるラーメン屋さんってありますか？さっきの店はもう閉まってて。
+   cur ( 99 new): Mayroon bang restawran ng ramen na nagpapatakbo hanggang gabi sa malapit dito? Ang restawran kanina ay sarado na.
+   new ( 65 new): Mayroon bang restawran ng ramen na nagpapatakbo hanggang gabi dito malapit? Ang restawran kanina ay sarado na.  <diff>
+Filipino->Japanese | Alas dose yata.
+   cur ( 97 new): 本当に残念です。
+   new ( 63 new): 残念ですね。  <diff>
+Japanese->Filipino | 助かります！じゃあ、佐藤さんにはそこで十時に待ち合わせって伝えておきますね。
+   cur ( 91 new): Mabuti! Sige, sasabihin ko kay G. Sato na magkita tayo doon sa alas-diyes.
+   new ( 57 new): Maganda iyan! Sige, sasabihin ko kay G. Sato na magkita tayo doon sa alas-diyes.  <diff>
+Filipino->Japanese | Sige, sasabihin ko sa kanya.
+   cur ( 97 new): わかった、彼に伝えよう。
+   new ( 63 new): わかった、彼に伝えよう。
+Traditional Chinese->Japanese | 你好，我是阿明。請問一下可以嗎？
+   cur ( 14 new): こんにちは、アミンです。お願いがありますが、大丈夫でしょうか？
+   new ( 20 new): こんにちは、アミンです。お願いがありますが、大丈夫でしょうか？
+Japanese->Traditional Chinese | どうぞ。
+   cur ( 87 new): 好啊。
+   new ( 51 new): 請吧。  <diff>
+Traditional Chinese->Japanese | 這附近有沒有開到很晚的小吃店？剛剛那家已經關了。
+   cur ( 80 new): この辺りで遅くまで開いている食べ物の店はありますか？さっきの店はもう閉まっています。
+   new ( 46 new): この辺りで遅くまで開いている食べ物の店はありますか？さっきの店はもう閉まっています。
+Japanese->Traditional Chinese | たぶん十二時だと思います。
+   cur ( 88 new): 我覺得大概已經十二點了。
+   new ( 54 new): 我覺得大概已經十二點了。
+Traditional Chinese->Japanese | 太好了，謝謝你！那我跟王姐說我們十點在那裡碰面。
+   cur ( 86 new): すごい、ありがとう！じゃあ、王姐に10時にそこで会おうと伝えてね。
+   new ( 52 new): よかったです、ありがとう！じゃあ、王姐に10時にそこで会おうと伝えます。  <diff>
+Japanese->Traditional Chinese | はい、伝えておきます。
+   cur ( 88 new): 好的，我會轉告她的。
+   new ( 54 new): 好的，我會轉告她。  <diff>
+Filipino->Malay | Hi, ako si Marco. Pwede bang magtanong?
+   cur ( 15 new): Hai, saya Marco. Boleh tanya sesuatu?
+   new ( 22 new): Hai, saya Marco. Boleh tanya sesuatu?
+Malay->Filipino | Tak, duduklah.
+   cur (  9 new): Oo, umupo ka lang.
+   new ( 57 new): Oo, umupo ka lang.
+Filipino->Malay | May alam ka bang karinderya dito na bukas hanggang gabi? Sarado na yung kanina.
+   cur ( 88 new): Adakah awak tahu ada restoran di sini yang buka sampai malam? Yang tadi dah tutup.
+   new ( 54 new): Adakah kamu tahu ada restoran di sini yang buka sampai malam? Yang tadi sudah tutup.  <diff>
+Malay->Filipino | Rasanya pukul dua belas.
+   cur ( 92 new): Parang alas-dose na.
+   new ( 58 new): Mukhang alas-dose na.  <diff>
+Filipino->Malay | Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.
+   cur ( 92 new): Terima kasih! Saya akan beritahu Ate Liza kita bertemu di sana pada pukul dua belas.
+   new ( 58 new): Terima kasih! Saya akan beritahu Ate Liza supaya kita bertemu di sana pada pukul tujuh malam.  <diff>
+Malay->Filipino | Boleh, saya bagitahu dia.
+   cur ( 92 new): Sige, sasabihin ko sa kaniya.
+   new ( 58 new): Sige, sasabihin ko sa kaniya.

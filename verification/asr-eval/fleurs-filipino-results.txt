@@ -1,0 +1,11 @@
+fil_ph: 150 clips, 88.0 min of speech
+  current small                    WER  28.5%  CER   7.8%  (83s on Mac)
+      ref: ang pagbibigay ng mga bahagi para sa pag aaral o pagbalangkas scaffolding ay hindi isang p
+      hyp: ang pagbibigay ng mga bahagi para sa pag aaral o pagbalangkas scaffolding ay hindi isang p
+      ref: ngunit dahil sa pagkakalagay sa mataas na mga tropiko ilang degree lang sa hilaga ng ekwad
+      hyp: munit dahil sa pagkakalagay sa mataas na mga tropico ilang degree lang sa hilaga ng ecuado
+  sapinsapin small fsc             WER  33.3%  CER  14.6%  (79s on Mac)
+      ref: ang pagbibigay ng mga bahagi para sa pag aaral o pagbalangkas scaffolding ay hindi isang p
+      hyp: ang pagbibigay ng mga bahagi para sa pagaaral o pagbalangkas scaffolding ay hindi isang pa
+      ref: ngunit dahil sa pagkakalagay sa mataas na mga tropiko ilang degree lang sa hilaga ng ekwad
+      hyp: munit dahil sa pagkakalagay sa mataas ng mga tropiko ilang degree lang sa hilaga ng ecuado

@@ -1,0 +1,21 @@
+plugins {
+  id 'com.android.library'
+  id 'expo-module-gradle-plugin'
+}
+
+group = 'com.craveasia.interpreter'
+version = '1.0.0'
+
+android {
+  namespace "expo.modules.sensevoice"
+  defaultConfig {
+    versionCode 1
+    versionName '1.0.0'
+  }
+  // libs/ and src/main/jniLibs/ are filled by scripts/fetch-sherpa-onnx.mjs (postinstall).
+}
+
+dependencies {
+  // Kotlin API classes from the official sherpa-onnx 2.0.1 Android release (checksum-verified).
+  implementation files('libs/sherpa-onnx-2.0.1.jar')
+}

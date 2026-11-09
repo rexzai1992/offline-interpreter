@@ -39,3 +39,9 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# sherpa-onnx native files, fetched by scripts/fetch-sherpa-onnx.mjs
+modules/sensevoice/android/libs/
+modules/sensevoice/android/src/main/jniLibs/
+modules/sensevoice/android/.gradle/
+modules/sensevoice/android/build/

@@ -1,0 +1,8 @@
+{
+  "name": "sensevoice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "On-device SenseVoice speech recognition (sherpa-onnx) for the interpreter app",
+  "main": "index.ts",
+  "license": "MIT"
+}

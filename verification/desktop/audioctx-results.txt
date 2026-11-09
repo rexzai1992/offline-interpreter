@@ -1,0 +1,60 @@
+=== en1 (en, 3.7s)
+  ac=1500  Hi, I'm looking for the train station. Is it far from here?
+  ac=768   Hi, I'm looking for the train station. Is it far from here?
+  ac=512   Hi, I'm looking for the train station. Is it far from here?
+  ac=384   Hi, I'm looking for the train station. Is it far from here?
+=== en2 (en, 3.7s)
+  ac=1500  No worries, I can wait. Could you tell him I'll be there at seven?
+  ac=768   No worries, I can wait. Could you tell him I'll be there at seven?
+  ac=512   No worries, I can wait. Could you tell him I'll be there at seven?
+  ac=384   No worries, I can wait. Could you tell him I'll be there at seven?
+=== ja1 (ja, 3.0s)
+  ac=1500 すみません、駅は、ここから遠いですか?
+  ac=768  すみません、駅は、ここから遠いですか?
+  ac=512  すみません、駅は、ここから遠いですか?
+  ac=384  すみません駅はここから遠いですか
+=== ja2 (ja, 4.5s)
+  ac=1500 大丈夫ですよ 七時に行くと彼に伝えてもらえますか
+  ac=768  大丈夫ですよ、7時に行くと、彼に伝えてもらえますか?
+  ac=512  大丈夫ですよ、7時に行くと、彼に伝えてもらえますか?
+  ac=384  大丈夫ですよ、7時に行くと、彼に伝えてもらえますか?
+=== zh1 (zh, 3.4s)
+  ac=1500 不好意思,請問火車站離這離遠嗎?
+  ac=768  不好意思,請問火車站離這離遠嗎?
+  ac=512  不好意思,請問火車站離這離遠嗎?
+  ac=384  不好意思,請問火車站離這離遠嗎?
+=== zh2 (zh, 4.3s)
+  ac=1500 沒關係,我可以等。你能告訴他我七點到嗎?
+  ac=768  沒關係,我可以等。你能告訴他我七點到嗎?
+  ac=512  沒關係,我可以等。你能告訴他我7點到嗎?
+  ac=384  沒關係,我可以等,你能告訴他我7點到嗎?
+=== zhtw1 (zh, 3.2s)
+  ac=1500 不好意思,请问火车站离这里远吗?
+  ac=768  不好意思,请问火车站离这里远吗?
+  ac=512  不好意思,请问火车站离这里远吗?
+  ac=384  不好意思,请问火车站离这里远吗?
+=== zhtw2 (zh, 4.2s)
+  ac=1500 沒關係,我可以等。你能告訴他我切點刀嗎?
+  ac=768  沒關係,我可以等。你能告訴他我起點到嗎?
+  ac=512  沒關係,我可以等。你能告訴他我起點到嗎?
+  ac=384  沒關係,我可以等你能告訴他我七點到嗎?
+=== ms1 (ms, 3.3s)
+  ac=1500  Maaf, spesien kereta api jauh dari sinita.
+  ac=768   Maaf, spesien kereta api jauh dari sinita.
+  ac=512   Maaf, spesien kereta api jauh dari sinita.
+  ac=384   Maaf, sebesar kereta api jauh dari sinita.
+=== ms2 (ms, 5.1s)
+  ac=1500  "Tak apa, saya boleh tunggu, boleh beritahu dia saya sampai pukul 7."
+  ac=768   "Tak apa, saya boleh tunggu, boleh beritahu dia saya sampai pukul 7."
+  ac=512   "Tak apa, saya boleh tunggu, boleh beritahu dia saya sampai pukul 7."
+  ac=384   "Tak apa, saya boleh tunggu, boleh beritahu dia saya sampai pukul 7."
+=== tl1 (tl, 4.5s)
+  ac=1500  Pasensya na po, malayo ba ang station ng tren mula dito?
+  ac=768   Pasensya na po, malayo ba ang station ng tren mula dito?
+  ac=512   Pasensya na po, malayo ba ang station ng tren mula dito?
+  ac=384   Pasensya na po, malayo ba ang station ng tren mula dito?
+=== tl2 (tl, 5.5s)
+  ac=1500  po kailang maghihintaya o pakisabi sa kanya na daratin ako ng alas yet pa.
+  ac=768   po kailang maghihintaya o pakisabi sa kanya, nadarati na ko ng alaset pa.
+  ac=512   po kailang maghihintaya o pakisabi sa kanya na daratin ako ng alaset pa.
+  ac=384   po kailang maghihintaya o pakisabi sa kanya na darating ako ng alashet pa.

@@ -1,0 +1,42 @@
+diff --git a/node_modules/whisper.rn/cpp/jsi/RNWhisperJSI.cpp b/node_modules/whisper.rn/cpp/jsi/RNWhisperJSI.cpp
+index ac3403e..0b722ce 100644
+--- a/node_modules/whisper.rn/cpp/jsi/RNWhisperJSI.cpp
++++ b/node_modules/whisper.rn/cpp/jsi/RNWhisperJSI.cpp
+@@ -892,6 +892,11 @@ TranscribeConfig createTranscribeConfig(
+         getIntProperty(runtime, options, "offset", config.params.offset_ms);
+     config.params.duration_ms =
+         getIntProperty(runtime, options, "duration", config.params.duration_ms);
++    // translate-app patch: expose audio_ctx for Whisper (already done for Parakeet).
++    // 0 keeps the full 1500-position (30 s) encoder window; a smaller value encodes
++    // only that many 20 ms positions, which is much faster for short utterances.
++    config.params.audio_ctx =
++        getIntProperty(runtime, options, "audioCtx", config.params.audio_ctx);
+     config.params.thold_pt =
+         getFloatProperty(runtime, options, "wordThold", config.params.thold_pt);
+     config.params.temperature =
+diff --git a/node_modules/whisper.rn/lib/typescript/NativeRNWhisper.d.ts b/node_modules/whisper.rn/lib/typescript/NativeRNWhisper.d.ts
+index 0d1a41b..dbebb0c 100644
+--- a/node_modules/whisper.rn/lib/typescript/NativeRNWhisper.d.ts
++++ b/node_modules/whisper.rn/lib/typescript/NativeRNWhisper.d.ts
+@@ -31,6 +31,8 @@ export type TranscribeOptions = {
+     /** Number of best candidates to keep */
+     bestOf?: number;
+     /** Initial Prompt */
++    /** Encoder context in 20 ms positions; 0 = full 1500 (30 s). translate-app patch. */
++    audioCtx?: number;
+     prompt?: string;
+ };
+ export type TranscribeResult = {
+diff --git a/node_modules/whisper.rn/src/NativeRNWhisper.ts b/node_modules/whisper.rn/src/NativeRNWhisper.ts
+index 61250ef..31401dc 100644
+--- a/node_modules/whisper.rn/src/NativeRNWhisper.ts
++++ b/node_modules/whisper.rn/src/NativeRNWhisper.ts
+@@ -33,6 +33,8 @@ export type TranscribeOptions = {
+   beamSize?: number
+   /** Number of best candidates to keep */
+   bestOf?: number
++  /** Encoder context in 20 ms positions; 0 = full 1500 (30 s). translate-app patch. */
++  audioCtx?: number
+   /** Initial Prompt */
+   prompt?: string
+ }

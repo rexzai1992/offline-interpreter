@@ -1,0 +1,722 @@
+[
+ {
+  "src": "en",
+  "tgt": "ms",
+  "turn": 0,
+  "text": "Hi there! I'm Sarah. Is this seat taken?",
+  "translation": "Hai! Saya Sarah. Tempat ini sudah diduduki?",
+  "secs": 1.16
+ },
+ {
+  "src": "en",
+  "tgt": "ms",
+  "turn": 1,
+  "text": "Oh cool, no worries. Hey, do you know if the last bus leaves at eleven or at midnight?",
+  "translation": "Oh, baguslah, tak apa. Hei, adakah kamu tahu sama ada bas terakhir akan berlepas pada pukul sebelas atau tengah malam?",
+  "secs": 0.86
+ },
+ {
+  "src": "en",
+  "tgt": "ms",
+  "turn": 2,
+  "text": "Ugh, that's a bummer. Could you tell your friend Ahmad I said thanks for the tip?",
+  "translation": "Ugh, itu memang menyusahkan. Bolehkah kamu beritahu kawan kamu Ahmad saya ucap terima kasih atas nasihatnya?",
+  "secs": 0.76
+ },
+ {
+  "src": "en",
+  "tgt": "ja",
+  "turn": 0,
+  "text": "Hi there! I'm Sarah. Is this seat taken?",
+  "translation": "こんにちは！私はサラです。この席は空いていますか？",
+  "secs": 0.38
+ },
+ {
+  "src": "en",
+  "tgt": "ja",
+  "turn": 1,
+  "text": "Oh cool, no worries. Hey, do you know if the last bus leaves at eleven or at midnight?",
+  "translation": "おお、いいね。心配ないよ。えっと、最後のバスが11時か真夜中に出るか知ってる？",
+  "secs": 0.73
+ },
+ {
+  "src": "en",
+  "tgt": "ja",
+  "turn": 2,
+  "text": "Ugh, that's a bummer. Could you tell your friend Ahmad I said thanks for the tip?",
+  "translation": "ああ、残念だね。友達のアハマドに、このアドバイスに感謝したと伝えてくれないか？",
+  "secs": 0.76
+ },
+ {
+  "src": "en",
+  "tgt": "zh-Hans",
+  "turn": 0,
+  "text": "Hi there! I'm Sarah. Is this seat taken?",
+  "translation": "嗨，你好！我是莎拉。这个座位有人坐了吗？",
+  "secs": 0.33
+ },
+ {
+  "src": "en",
+  "tgt": "zh-Hans",
+  "turn": 1,
+  "text": "Oh cool, no worries. Hey, do you know if the last bus leaves at eleven or at midnight?",
+  "translation": "哦，太好了，不用担心。嘿，你知道末班车是11点还是午夜出发呢？",
+  "secs": 0.56
+ },
+ {
+  "src": "en",
+  "tgt": "zh-Hans",
+  "turn": 2,
+  "text": "Ugh, that's a bummer. Could you tell your friend Ahmad I said thanks for the tip?",
+  "translation": "唉，真遗憾。你能转告你的朋友艾哈迈德，我感谢他的建议吗？",
+  "secs": 0.54
+ },
+ {
+  "src": "en",
+  "tgt": "zh-Hant",
+  "turn": 0,
+  "text": "Hi there! I'm Sarah. Is this seat taken?",
+  "translation": "嗨！我是莎拉。这个座位有人坐了吗？",
+  "secs": 0.29
+ },
+ {
+  "src": "en",
+  "tgt": "zh-Hant",
+  "turn": 1,
+  "text": "Oh cool, no worries. Hey, do you know if the last bus leaves at eleven or at midnight?",
+  "translation": "哦，太好了，沒問題。嘿，你知道最後一班車是十一點還是午夜發車呢？",
+  "secs": 0.57
+ },
+ {
+  "src": "en",
+  "tgt": "zh-Hant",
+  "turn": 2,
+  "text": "Ugh, that's a bummer. Could you tell your friend Ahmad I said thanks for the tip?",
+  "translation": "唉，真可惜。你能轉告你的朋友艾哈邁德，我謝謝他的建議嗎？",
+  "secs": 0.65
+ },
+ {
+  "src": "en",
+  "tgt": "tl",
+  "turn": 0,
+  "text": "Hi there! I'm Sarah. Is this seat taken?",
+  "translation": "Hi! Ako si Sarah. Wala bang nakaupo sa upuan na ito?",
+  "secs": 0.4
+ },
+ {
+  "src": "en",
+  "tgt": "tl",
+  "turn": 1,
+  "text": "Oh cool, no worries. Hey, do you know if the last bus leaves at eleven or at midnight?",
+  "translation": "O, maganda, walang problema. Hey, alam mo ba kung anong oras lumalabas ang huling bus, alas-onse o hatinggabi?",
+  "secs": 0.78
+ },
+ {
+  "src": "en",
+  "tgt": "tl",
+  "turn": 2,
+  "text": "Ugh, that's a bummer. Could you tell your friend Ahmad I said thanks for the tip?",
+  "translation": "Ugh, sayang naman. Maaari mo bang sabihin sa kaibigan mo si Ahmad na nagpasalamat ako para sa tip?",
+  "secs": 0.73
+ },
+ {
+  "src": "ms",
+  "tgt": "en",
+  "turn": 0,
+  "text": "Hai, saya Aiman. Boleh tolong tak?",
+  "translation": "Hey, I’m Aiman. Could you help me out?",
+  "secs": 0.32
+ },
+ {
+  "src": "ms",
+  "tgt": "en",
+  "turn": 1,
+  "text": "Saya nak cari kedai mamak yang buka lewat malam. Yang tadi tu dah tutup lah.",
+  "translation": "I want to find a fast-food place that opens late at night. The one over there already closed.",
+  "secs": 0.54
+ },
+ {
+  "src": "ms",
+  "tgt": "en",
+  "turn": 2,
+  "text": "Okay, terima kasih banyak-banyak. Nanti saya bagitahu Siti kita jumpa dia kat sana pukul sepuluh.",
+  "translation": "Okay, thanks very much. I'll tell Siti that we meet up there at ten o’clock.",
+  "secs": 0.53
+ },
+ {
+  "src": "ms",
+  "tgt": "ja",
+  "turn": 0,
+  "text": "Hai, saya Aiman. Boleh tolong tak?",
+  "translation": "あっ、私はアイマンです。お手伝いできますか？",
+  "secs": 0.35
+ },
+ {
+  "src": "ms",
+  "tgt": "ja",
+  "turn": 1,
+  "text": "Saya nak cari kedai mamak yang buka lewat malam. Yang tadi tu dah tutup lah.",
+  "translation": "夜遅くに開いているママクの店を探したいんだけど、さっきのはもう閉まってしまったよ。",
+  "secs": 0.7
+ },
+ {
+  "src": "ms",
+  "tgt": "ja",
+  "turn": 2,
+  "text": "Okay, terima kasih banyak-banyak. Nanti saya bagitahu Siti kita jumpa dia kat sana pukul sepuluh.",
+  "translation": "わかりました、本当にありがとう。後でシティに連絡して、10時にそこで会いましょう。",
+  "secs": 0.74
+ },
+ {
+  "src": "ms",
+  "tgt": "zh-Hans",
+  "turn": 0,
+  "text": "Hai, saya Aiman. Boleh tolong tak?",
+  "translation": "嗨，我是艾曼。可以帮个忙吗？",
+  "secs": 0.25
+ },
+ {
+  "src": "ms",
+  "tgt": "zh-Hans",
+  "turn": 1,
+  "text": "Saya nak cari kedai mamak yang buka lewat malam. Yang tadi tu dah tutup lah.",
+  "translation": "我想找一家晚上还营业的小吃店，刚才那家已经关门了。",
+  "secs": 0.46
+ },
+ {
+  "src": "ms",
+  "tgt": "zh-Hans",
+  "turn": 2,
+  "text": "Okay, terima kasih banyak-banyak. Nanti saya bagitahu Siti kita jumpa dia kat sana pukul sepuluh.",
+  "translation": "好的，非常感谢你。我稍后告诉Siti，我们十点在那儿见面吧。",
+  "secs": 0.53
+ },
+ {
+  "src": "ms",
+  "tgt": "zh-Hant",
+  "turn": 0,
+  "text": "Hai, saya Aiman. Boleh tolong tak?",
+  "translation": "嗨，我是艾曼。可以幫個忙嗎？",
+  "secs": 0.29
+ },
+ {
+  "src": "ms",
+  "tgt": "zh-Hant",
+  "turn": 1,
+  "text": "Saya nak cari kedai mamak yang buka lewat malam. Yang tadi tu dah tutup lah.",
+  "translation": "我想要找一間晚上還開著的米幾爛店。剛才那一家已經關門了。",
+  "secs": 0.58
+ },
+ {
+  "src": "ms",
+  "tgt": "zh-Hant",
+  "turn": 2,
+  "text": "Okay, terima kasih banyak-banyak. Nanti saya bagitahu Siti kita jumpa dia kat sana pukul sepuluh.",
+  "translation": "好的，非常謝謝你。之後我會告訴Siti，我們十點在那裡見面吧。",
+  "secs": 0.67
+ },
+ {
+  "src": "ms",
+  "tgt": "tl",
+  "turn": 0,
+  "text": "Hai, saya Aiman. Boleh tolong tak?",
+  "translation": "Hoy, ako si Aiman. Pwede bang tulungan mo ako?",
+  "secs": 0.36
+ },
+ {
+  "src": "ms",
+  "tgt": "tl",
+  "turn": 1,
+  "text": "Saya nak cari kedai mamak yang buka lewat malam. Yang tadi tu dah tutup lah.",
+  "translation": "Hinahanap ko ang isang tindahan ng mamak na bukas sa gabi. Ang dati naman ay sarado na.",
+  "secs": 0.65
+ },
+ {
+  "src": "ms",
+  "tgt": "tl",
+  "turn": 2,
+  "text": "Okay, terima kasih banyak-banyak. Nanti saya bagitahu Siti kita jumpa dia kat sana pukul sepuluh.",
+  "translation": "Okey, salamat nang labis-labis. Sasabihin ko kay Siti na magkita tayo doon ng alas-diyes.",
+  "secs": 0.77
+ },
+ {
+  "src": "ja",
+  "tgt": "en",
+  "turn": 0,
+  "text": "すみません、田中と申します。ちょっといいですか？",
+  "translation": "Sorry, I'm Tanaka. Could we talk for a moment?",
+  "secs": 0.3
+ },
+ {
+  "src": "ja",
+  "tgt": "en",
+  "turn": 1,
+  "text": "この近くに夜遅くまでやってるラーメン屋さんってありますか？さっきの店はもう閉まってて。",
+  "translation": "Is there any ramen shop that stays open late at night nearby? The one we just went to is already closed.",
+  "secs": 0.61
+ },
+ {
+  "src": "ja",
+  "tgt": "en",
+  "turn": 2,
+  "text": "助かります！じゃあ、佐藤さんにはそこで十時に待ち合わせって伝えておきますね。",
+  "translation": "Thanks! I’ll let Mr. Sato know we’re meeting there at ten o’clock.",
+  "secs": 0.59
+ },
+ {
+  "src": "ja",
+  "tgt": "ms",
+  "turn": 0,
+  "text": "すみません、田中と申します。ちょっといいですか？",
+  "translation": "Maaf, saya Tanaka. Boleh saya tanya sesuatu?",
+  "secs": 0.31
+ },
+ {
+  "src": "ja",
+  "tgt": "ms",
+  "turn": 1,
+  "text": "この近くに夜遅くまでやってるラーメン屋さんってありますか？さっきの店はもう閉まってて。",
+  "translation": "Adakah ada restoran ramen yang buka sampai lewat malam di kawasan ini? Restoran tadi sudah tutup.",
+  "secs": 0.62
+ },
+ {
+  "src": "ja",
+  "tgt": "ms",
+  "turn": 2,
+  "text": "助かります！じゃあ、佐藤さんにはそこで十時に待ち合わせって伝えておきますね。",
+  "translation": "Terima kasih! Baiklah, saya akan beritahu Encik Sato untuk bertemu di sana pada pukul sepuluh nanti.",
+  "secs": 0.8
+ },
+ {
+  "src": "ja",
+  "tgt": "zh-Hans",
+  "turn": 0,
+  "text": "すみません、田中と申します。ちょっといいですか？",
+  "translation": "不好意思，我叫田中。可以稍微占用一下时间吗？",
+  "secs": 0.29
+ },
+ {
+  "src": "ja",
+  "tgt": "zh-Hans",
+  "turn": 1,
+  "text": "この近くに夜遅くまでやってるラーメン屋さんってありますか？さっきの店はもう閉まってて。",
+  "translation": "请问附近有晚上营业到很晚的拉面店吗？刚才那家已经关门了。",
+  "secs": 0.49
+ },
+ {
+  "src": "ja",
+  "tgt": "zh-Hans",
+  "turn": 2,
+  "text": "助かります！じゃあ、佐藤さんにはそこで十時に待ち合わせって伝えておきますね。",
+  "translation": "太好了！那我就把在十二点在那儿见面的安排转告给佐藤先生吧。",
+  "secs": 0.58
+ },
+ {
+  "src": "ja",
+  "tgt": "zh-Hant",
+  "turn": 0,
+  "text": "すみません、田中と申します。ちょっといいですか？",
+  "translation": "不好意思，我叫田中。可以稍微占用一下时间吗？",
+  "secs": 0.29
+ },
+ {
+  "src": "ja",
+  "tgt": "zh-Hant",
+  "turn": 1,
+  "text": "この近くに夜遅くまでやってるラーメン屋さんってありますか？さっきの店はもう閉まってて。",
+  "translation": "這附近有晚上還開著的拉麵店嗎？剛才那家已經關門了。",
+  "secs": 0.56
+ },
+ {
+  "src": "ja",
+  "tgt": "zh-Hant",
+  "turn": 2,
+  "text": "助かります！じゃあ、佐藤さんにはそこで十時に待ち合わせって伝えておきますね。",
+  "translation": "太好了！那我就跟佐藤先生說，在那裡十點見面吧。",
+  "secs": 0.56
+ },
+ {
+  "src": "ja",
+  "tgt": "tl",
+  "turn": 0,
+  "text": "すみません、田中と申します。ちょっといいですか？",
+  "translation": "Pasensya na, ako si Tanaka. Pwede ba tayong mag-usap sandali?",
+  "secs": 0.44
+ },
+ {
+  "src": "ja",
+  "tgt": "tl",
+  "turn": 1,
+  "text": "この近くに夜遅くまでやってるラーメン屋さんってありますか？さっきの店はもう閉まってて。",
+  "translation": "Mayroon bang restawran ng ramen na nagpapatakbo hanggang gabi sa malapit dito? Ang restawran kanina ay sarado na.",
+  "secs": 0.75
+ },
+ {
+  "src": "ja",
+  "tgt": "tl",
+  "turn": 2,
+  "text": "助かります！じゃあ、佐藤さんにはそこで十時に待ち合わせって伝えておきますね。",
+  "translation": "Mabuti! Sige, ipapaalam ko kay G. Sato na magkita tayo doon ng alas-diyes.",
+  "secs": 0.73
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "en",
+  "turn": 0,
+  "text": "你好，我叫小李。打扰一下可以吗？",
+  "translation": "Hi, I’m Xiao Li. Could I bother you for a moment?",
+  "secs": 0.31
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "en",
+  "turn": 1,
+  "text": "这附近有没有开到很晚的小吃店？刚才那家已经关门了。",
+  "translation": "Is there any snack place around here that stays open late? That one just now already closed.",
+  "secs": 0.5
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "en",
+  "turn": 2,
+  "text": "太好了，谢谢你！那我跟王姐说我们十点在那儿碰头。",
+  "translation": "Great, thanks! Let me tell Sister Wang we’ll meet there at ten o’clock.",
+  "secs": 0.51
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "ms",
+  "turn": 0,
+  "text": "你好，我叫小李。打扰一下可以吗？",
+  "translation": "Hai, saya Xiao Li. Boleh tanya sebentar?",
+  "secs": 0.29
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "ms",
+  "turn": 1,
+  "text": "这附近有没有开到很晚的小吃店？刚才那家已经关门了。",
+  "translation": "Adakah ada kedai makan yang tutup lewat di sekitar sini? Kedai yang tadi sudah tutup.",
+  "secs": 0.62
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "ms",
+  "turn": 2,
+  "text": "太好了，谢谢你！那我跟王姐说我们十点在那儿碰头。",
+  "translation": "Bagus sekali, terima kasih! Jadi saya akan beritahu Kak Wang kita bertemu di sana pada pukul sepuluh.",
+  "secs": 0.73
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "ja",
+  "turn": 0,
+  "text": "你好，我叫小李。打扰一下可以吗？",
+  "translation": "こんにちは、私は李と申します。お邪魔しても大丈夫ですか？",
+  "secs": 0.43
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "ja",
+  "turn": 1,
+  "text": "这附近有没有开到很晚的小吃店？刚才那家已经关门了。",
+  "translation": "この近くで遅くまで開いているお店はありますか？さっきのお店はもう閉まっています。",
+  "secs": 0.69
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "ja",
+  "turn": 2,
+  "text": "太好了，谢谢你！那我跟王姐说我们十点在那儿碰头。",
+  "translation": "すごい、ありがとう！じゃあ、王姐に10時にそこで会おうと伝えてね。",
+  "secs": 0.67
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "zh-Hant",
+  "turn": 0,
+  "text": "你好，我叫小李。打扰一下可以吗？",
+  "translation": "嗨，我叫小李。能打擾一下嗎？",
+  "secs": 0.28
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "zh-Hant",
+  "turn": 1,
+  "text": "这附近有没有开到很晚的小吃店？刚才那家已经关门了。",
+  "translation": "這附近有開到很晚的小食店嗎？剛才那家已經關門了。",
+  "secs": 0.57
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "zh-Hant",
+  "turn": 2,
+  "text": "太好了，谢谢你！那我跟王姐说我们十点在那儿碰头。",
+  "translation": "太好了，謝謝你！那我跟王姐說我們十點在那裡見面吧。",
+  "secs": 0.61
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "tl",
+  "turn": 0,
+  "text": "你好，我叫小李。打扰一下可以吗？",
+  "translation": "Hi, ako si Xiao Li. Pwede bang makagambala?",
+  "secs": 0.34
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "tl",
+  "turn": 1,
+  "text": "这附近有没有开到很晚的小吃店？刚才那家已经关门了。",
+  "translation": "Mayroon bang restawran na naghahain hanggang gabi sa malapit? Nagsara na ang restawran na iyon kanina.",
+  "secs": 0.72
+ },
+ {
+  "src": "zh-Hans",
+  "tgt": "tl",
+  "turn": 2,
+  "text": "太好了，谢谢你！那我跟王姐说我们十点在那儿碰头。",
+  "translation": "Maganda iyan, salamat! Sabihin ko kay Sister Wang na magkita tayo doon ng alas-diyes.",
+  "secs": 0.7
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "en",
+  "turn": 0,
+  "text": "你好，我是阿明。請問一下可以嗎？",
+  "translation": "Hi, I’m Amin. Could you help me out?",
+  "secs": 0.26
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "en",
+  "turn": 1,
+  "text": "這附近有沒有開到很晚的小吃店？剛剛那家已經關了。",
+  "translation": "Is there any snack place nearby that stays open late? The one just now is already closed.",
+  "secs": 0.5
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "en",
+  "turn": 2,
+  "text": "太好了，謝謝你！那我跟王姐說我們十點在那裡碰面。",
+  "translation": "Great, thanks! Let me tell Sister Wang we’ll meet there at ten o’clock.",
+  "secs": 0.52
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "ms",
+  "turn": 0,
+  "text": "你好，我是阿明。請問一下可以嗎？",
+  "translation": "Hai, saya A Ming. Boleh saya tanya sesuatu?",
+  "secs": 0.31
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "ms",
+  "turn": 1,
+  "text": "這附近有沒有開到很晚的小吃店？剛剛那家已經關了。",
+  "translation": "Adakah ada kedai makan yang buka lama di sekitar sini? Kedai tadi dah tutup.",
+  "secs": 0.6
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "ms",
+  "turn": 2,
+  "text": "太好了，謝謝你！那我跟王姐說我們十點在那裡碰面。",
+  "translation": "Bagus, terima kasih! Saya akan beritahu Kak Wang kita bertemu di sana pada pukul sepuluh.",
+  "secs": 0.69
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "ja",
+  "turn": 0,
+  "text": "你好，我是阿明。請問一下可以嗎？",
+  "translation": "こんにちは、アミンです。お願いがありますが、大丈夫でしょうか？",
+  "secs": 0.48
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "ja",
+  "turn": 1,
+  "text": "這附近有沒有開到很晚的小吃店？剛剛那家已經關了。",
+  "translation": "この辺りで遅くまで開いている食べ物の店はありますか？さっきの店はもう閉まっています。",
+  "secs": 0.73
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "ja",
+  "turn": 2,
+  "text": "太好了，謝謝你！那我跟王姐說我們十點在那裡碰面。",
+  "translation": "すごい、ありがとう！じゃあ、王姐に10時にそこで会おうと伝えておくね。",
+  "secs": 0.71
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "zh-Hans",
+  "turn": 0,
+  "text": "你好，我是阿明。請問一下可以嗎？",
+  "translation": "嗨，我是阿明。能打扰一下吗？",
+  "secs": 0.24
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "zh-Hans",
+  "turn": 1,
+  "text": "這附近有沒有開到很晚的小吃店？剛剛那家已經關了。",
+  "translation": "这附近有没有开到很晚的小吃店？刚才那家已经关了。",
+  "secs": 0.45
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "zh-Hans",
+  "turn": 2,
+  "text": "太好了，謝謝你！那我跟王姐說我們十點在那裡碰面。",
+  "translation": "太好了，谢谢！那我跟王姐说我们十点在那儿见面吧。",
+  "secs": 0.5
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "tl",
+  "turn": 0,
+  "text": "你好，我是阿明。請問一下可以嗎？",
+  "translation": "Hi, ako si Amin. Pwede ba ito?",
+  "secs": 0.28
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "tl",
+  "turn": 1,
+  "text": "這附近有沒有開到很晚的小吃店？剛剛那家已經關了。",
+  "translation": "Mayroon bang restawran sa malapit na nagpapatuloy ng pagkain hanggang gabi? Ang restawran na kanina ay sarado na.",
+  "secs": 0.77
+ },
+ {
+  "src": "zh-Hant",
+  "tgt": "tl",
+  "turn": 2,
+  "text": "太好了，謝謝你！那我跟王姐說我們十點在那裡碰面。",
+  "translation": "Maganda iyan, salamat! Sabihin ko lang kay Sister Wang na magkita tayo doon ng alas-diyes.",
+  "secs": 0.7
+ },
+ {
+  "src": "tl",
+  "tgt": "en",
+  "turn": 0,
+  "text": "Hi, ako si Marco. Pwede bang magtanong?",
+  "translation": "Hey, I’m Marco. Can I ask you a question?",
+  "secs": 0.29
+ },
+ {
+  "src": "tl",
+  "tgt": "en",
+  "turn": 1,
+  "text": "May alam ka bang karinderya dito na bukas hanggang gabi? Sarado na yung kanina.",
+  "translation": "Do you know of a restaurant here that’s open until late? The one earlier just closed.",
+  "secs": 0.53
+ },
+ {
+  "src": "tl",
+  "tgt": "en",
+  "turn": 2,
+  "text": "Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.",
+  "translation": "Thanks ha! I’ll tell Ate Liza we’re meeting there at 7 o’clock.",
+  "secs": 0.59
+ },
+ {
+  "src": "tl",
+  "tgt": "ms",
+  "turn": 0,
+  "text": "Hi, ako si Marco. Pwede bang magtanong?",
+  "translation": "Hai, saya Marco. Boleh tanya sesuatu?",
+  "secs": 0.27
+ },
+ {
+  "src": "tl",
+  "tgt": "ms",
+  "turn": 1,
+  "text": "May alam ka bang karinderya dito na bukas hanggang gabi? Sarado na yung kanina.",
+  "translation": "Adakah kamu tahu ada restoran di sini yang buka sampai malam? Yang tadi dah tutup.",
+  "secs": 0.6
+ },
+ {
+  "src": "tl",
+  "tgt": "ms",
+  "turn": 2,
+  "text": "Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.",
+  "translation": "Terima kasih! Saya akan beritahu Ate Liza kita bertemu di sana pada pukul dua belas.",
+  "secs": 0.69
+ },
+ {
+  "src": "tl",
+  "tgt": "ja",
+  "turn": 0,
+  "text": "Hi, ako si Marco. Pwede bang magtanong?",
+  "translation": "こんにちは、マルコです。質問してもいいですか？",
+  "secs": 0.39
+ },
+ {
+  "src": "tl",
+  "tgt": "ja",
+  "turn": 1,
+  "text": "May alam ka bang karinderya dito na bukas hanggang gabi? Sarado na yung kanina.",
+  "translation": "ここに夜まで開いているレストランがあるの知ってる？さっきはもう閉まってたよ。",
+  "secs": 0.67
+ },
+ {
+  "src": "tl",
+  "tgt": "ja",
+  "turn": 2,
+  "text": "Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.",
+  "translation": "ありがとう！リザお姉さんに、19時にはそこで会いましょうと伝えます。",
+  "secs": 0.69
+ },
+ {
+  "src": "tl",
+  "tgt": "zh-Hans",
+  "turn": 0,
+  "text": "Hi, ako si Marco. Pwede bang magtanong?",
+  "translation": "嗨，我是马可。可以问个问题吗？",
+  "secs": 0.22
+ },
+ {
+  "src": "tl",
+  "tgt": "zh-Hans",
+  "turn": 1,
+  "text": "May alam ka bang karinderya dito na bukas hanggang gabi? Sarado na yung kanina.",
+  "translation": "你知道这里有一家晚上营业到很晚的餐厅吗？刚才那家已经关门了。",
+  "secs": 0.49
+ },
+ {
+  "src": "tl",
+  "tgt": "zh-Hans",
+  "turn": 2,
+  "text": "Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.",
+  "translation": "谢谢啊！我告诉莉莎姐，我们下午七点在那儿见面吧。",
+  "secs": 0.52
+ },
+ {
+  "src": "tl",
+  "tgt": "zh-Hant",
+  "turn": 0,
+  "text": "Hi, ako si Marco. Pwede bang magtanong?",
+  "translation": "嗨，我是馬可。可以問你點什麼嗎？",
+  "secs": 0.3
+ },
+ {
+  "src": "tl",
+  "tgt": "zh-Hant",
+  "turn": 1,
+  "text": "May alam ka bang karinderya dito na bukas hanggang gabi? Sarado na yung kanina.",
+  "translation": "你知道這裡有家餐廳會開到晚上嗎？剛才的那家已經關門了。",
+  "secs": 0.61
+ },
+ {
+  "src": "tl",
+  "tgt": "zh-Hant",
+  "turn": 2,
+  "text": "Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.",
+  "translation": "謝謝啦！我會告訴莉莎姐，我們下午七點在那裡見面。",
+  "secs": 0.63
+ }
+]

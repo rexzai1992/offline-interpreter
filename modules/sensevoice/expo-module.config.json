@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["SenseVoiceModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.sensevoice.SenseVoiceModule"]
+  }
+}

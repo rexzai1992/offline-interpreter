@@ -1,0 +1,22 @@
+== small-q8_0
+en1: auto-detected language: en (p = 0.994367)
+ja1: auto-detected language: ja (p = 0.983001)
+zh1: auto-detected language: zh (p = 0.995604)
+zhtw2: auto-detected language: zh (p = 0.980003)
+ms1: auto-detected language: ms (p = 0.532192)
+ms2: auto-detected language: ms (p = 0.720296)
+tl1: auto-detected language: tl (p = 0.997548)
+tl2: auto-detected language: tl (p = 0.997332)
+-- timing ms2.wav (4 threads, Metal):
+ load time = 94.02 ms; encode time = 219.18 ms / 1 runs ( 219.18 ms per run); decode time = 0.00 ms / 1 runs ( 0.00 ms per run); total time = 500.15 ms;
+== large-v3-turbo-q5_0
+en1: auto-detected language: en (p = 0.999589)
+ja1: auto-detected language: ja (p = 0.999111)
+zh1: auto-detected language: zh (p = 0.998501)
+zhtw2: auto-detected language: zh (p = 0.998858)
+ms1: auto-detected language: id (p = 0.845995)
+ms2: auto-detected language: ms (p = 0.930065)
+tl1: auto-detected language: tl (p = 0.997502)
+tl2: auto-detected language: tl (p = 0.997709)
+-- timing ms2.wav (4 threads, Metal):
+ load time = 223.14 ms; encode time = 1298.92 ms / 1 runs ( 1298.92 ms per run); decode time = 3.00 ms / 1 runs ( 3.00 ms per run); total time = 1794.81 ms;

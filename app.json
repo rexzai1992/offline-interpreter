@@ -1,15 +1,30 @@
 {
   "expo": {
-    "name": "translate-app",
+    "name": "Interpreter",
     "slug": "translate-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "scheme": "interpreter",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.craveasia.interpreter",
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "The microphone is used to recognise what each speaker says. Audio is processed on this device and never uploaded.",
+        "ITSAppUsesNonExemptEncryption": false,
+        "UIBackgroundModes": []
+      }
     },
     "android": {
+      "package": "com.craveasia.interpreter",
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ],
+      "blockedPermissions": [
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ],
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -20,6 +35,46 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "minSdkVersion": 26,
+            "ndkVersion": "27.1.12297006",
+            "extraProguardRules": "-keep class com.rnllama.** { *; }\n-keep class com.rnwhisper.** { *; }\n-keep class com.k2fsa.sherpa.onnx.** { *; }\n-keep class expo.modules.sensevoice.** { *; }"
+          }
+        }
+      ],
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "The microphone is used to recognise what each speaker says. Audio is processed on this device and never uploaded."
+        }
+      ],
+      [
+        "llama.rn",
+        {
+          "enableEntitlements": true,
+          "entitlementsProfile": "production",
+          "forceCxx20": true,
+          "enableOpenCLAndHexagon": true
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#0B1016",
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 160,
+          "dark": {
+            "backgroundColor": "#0B1016",
+            "image": "./assets/splash-icon.png"
+          }
+        }
+      ]
+    ],
+    "backgroundColor": "#0B1016"
   }
 }

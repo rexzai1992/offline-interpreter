@@ -1,0 +1,60 @@
+English              | Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.
+   without: Thanks ha! I'll tell Ate Liza we're meeting there at 7 o’clock.
+   with   : Thanks ha! I'll tell Ate Liza that we'll meet there at 10 o'clock.   ["alas diyes translates to 10 o'clock"]
+Japanese             | Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.
+   without: ありがとう！リザお姉さんに、19時にそこで会おうと伝えます。
+   with   : ありがとう！10時にリザお姉さんのところで会いましょう。   ['alas diyes translates to 10時']
+Chinese              | Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.
+   without: 谢谢啦！我会告诉莉莎姐姐，我们下午七点在那儿见面。
+   with   : 谢谢啦！我会告诉莉莎姐，我们10点在那儿见面。   ['alas diyes translates to 10点']
+Traditional Chinese  | Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.
+   without: 謝謝啊！我會告訴莉莎姐，我們下午七點在那裡見面。
+   with   : 謝謝啊！我會告訴莉莎姐，我們10點在那裡見面。   ['alas diyes translates to 10點']
+Malay                | Salamat ha! Sasabihin ko kay Ate Liza na magkita tayo doon ng alas diyes.
+   without: Terima kasih ya! Saya akan beritahu Ate Liza kita bertemu di sana pada pukul dua pagi.
+   with   : Terima kasih ya! Saya akan beritahu Ate Liza bahawa kita akan bertemu di sana pada pukul 10.   ['alas diyes translates to pukul 10']
+English              | Alas dose yata.
+   without: Oh, what time is the last bus?
+   with   : It's 12 o'clock.   ["Alas dose translates to 12 o'clock"]
+Japanese             | Alas dose yata.
+   without: 残念ながら、終了バスは何時にありますか？
+   with   : 12時になります。   ['Alas dose translates to 12時']
+Chinese              | Alas dose yata.
+   without: 真遗憾啊。
+   with   : 12点了。   ['Alas dose translates to 12点']
+Traditional Chinese  | Alas dose yata.
+   without: 唉，時間不早了。
+   with   : 12點的末班車有嗎？   ['Alas dose translates to 12點']
+Malay                | Alas dose yata.
+   without: Pukul berapa bas terakhir?
+   with   : Pukul 12 ya.   ['Alas dose translates to pukul 12']
+English              | Kita tayo bukas ng alas tres y medya sa harap ng mall.
+   without: Let's meet at three thirty tomorrow in front of the mall.
+   with   : Let's meet at 3:30 tomorrow in front of the mall.   ['alas tres y medya translates to 3:30']
+Japanese             | Kita tayo bukas ng alas tres y medya sa harap ng mall.
+   without: 明日の午後3時半にモールの前で会いましょう。
+   with   : 明日の三時半にモールの前で集まよう。   ['alas tres y medya translates to 3時半']
+Chinese              | Kita tayo bukas ng alas tres y medya sa harap ng mall.
+   without: 明天凌晨三点半我们在商场前面碰面吧。
+   with   : 明天三点半我们在商场前面碰面吧。   ['alas tres y medya translates to 3点半']
+Traditional Chinese  | Kita tayo bukas ng alas tres y medya sa harap ng mall.
+   without: 明天凌晨三點半在商場前面見吧。
+   with   : 明天三點半在商場前面見吧。   ['alas tres y medya translates to 3點半']
+Malay                | Kita tayo bukas ng alas tres y medya sa harap ng mall.
+   without: Kita bertemu pada pukul tiga setengah pagi di depan pusat beli-belah itu.
+   with   : Kita bertemu pada pukul 3 setengah di depan mall.   ['alas tres y medya translates to pukul 3 setengah']
+English              | Ala una na, kain na tayo.
+   without: Let's get some food.
+   with   : 1 o'clock, let's eat now.   ["Ala una translates to 1 o'clock"]
+Japanese             | Ala una na, kain na tayo.
+   without: さて、始めましょう。
+   with   : 1時になったら、食事をしましょう。   ['Ala una translates to 1時']
+Chinese              | Ala una na, kain na tayo.
+   without: 来吧，我们吃饭吧。
+   with   : 1点了，我们该吃饭了。   ['Ala una translates to 1点']
+Traditional Chinese  | Ala una na, kain na tayo.
+   without: 來吧，我們吃飯吧。
+   with   : 1點了，我們吃飯吧。   ['Ala una translates to 1點']
+Malay                | Ala una na, kain na tayo.
+   without: Sudah sampai waktu kita berhenti.
+   with   : Pukul 1 dah, kita dah siap.   ['Ala una translates to pukul 1']

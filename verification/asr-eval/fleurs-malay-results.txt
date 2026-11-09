@@ -1,0 +1,22 @@
+ms_my: 150 clips, 56.0 min of speech
+  current small                    WER  21.8%  CER   6.8%  (70s on Mac)
+      ref: bersedia untuk menyerang harimau boleh memanjat walaupun tidak begitu bagus berenang melom
+      hyp: bersedia untuk menyerang harimau boleh memanjat walaupun tidak begitu bagus berenang melom
+      ref: semakin kecil nombor rossby semakin kurang aktif bintang dari segi pembalikan magnetik
+      hyp: semakin kecil nomor rosbi semakin kurang aktif pintang dari segi pembalikan magnetic
+  current base                     WER  48.7%  CER  16.0%  (31s on Mac)
+      ref: bersedia untuk menyerang harimau boleh memanjat walaupun tidak begitu bagus berenang melom
+      hyp: bersedia untuk menyerang hari mahu boleh memanjat walaupun tidak begitu bagus berenang mel
+      ref: semakin kecil nombor rossby semakin kurang aktif bintang dari segi pembalikan magnetik
+      hyp: semakin kecil nomor rosbi semakin korang aktif pintang dari sejipun balik dan maknete
+  mesolitica small v2              WER  10.4%  CER   3.2%  (70s on Mac)
+      ref: bersedia untuk menyerang harimau boleh memanjat walaupun tidak begitu bagus berenang melom
+      hyp: bersedia untuk menyerang harimau boleh memanjat walaupun tidak begitu bagus berenang melom
+      ref: semakin kecil nombor rossby semakin kurang aktif bintang dari segi pembalikan magnetik
+      hyp: semakin kecil nombor rosby semakin kurang aktif pintang dari segi pembalikan magnetik
+  mesolitica base                  WER  19.5%  CER   5.9%  (28s on Mac)
+      ref: bersedia untuk menyerang harimau boleh memanjat walaupun tidak begitu bagus berenang melom
+      hyp: bersedia untuk menyerang harimau boleh memanjat walaupun tidak begitu bagus berenang melom
+      ref: semakin kecil nombor rossby semakin kurang aktif bintang dari segi pembalikan magnetik
+      hyp: semakin kecil nombor rosbi semakin korang aktif pintang dari segi pembalikan magnetic
+mesolitica small v3: whisper.cpp produced invalid UTF-8 output (vocabulary has 51866 tokens, which whisper.cpp maps like large-v3; the special tokens shift). Not usable without a converter fix.

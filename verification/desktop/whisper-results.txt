@@ -1,0 +1,110 @@
+=================== MODEL small-q8_0
+--- en1 (forced lang=en)
+ Hi, I'm looking for the train station. Is it far from here?--- en1 (auto)
+read_audio_data: reading audio data from 'en1.wav' ...
+read_audio_data: trying to decode with miniaudio
+--- en2 (forced lang=en)
+ No worries, I can wait. Could you tell him I'll be there at seven?--- en2 (auto)
+read_audio_data: reading audio data from 'en2.wav' ...
+read_audio_data: trying to decode with miniaudio
+--- ja1 (forced lang=ja)
+すみません、駅は、ここから遠いですか?--- ja1 (auto)
+read_audio_data: reading audio data from 'ja1.wav' ...
+read_audio_data: trying to decode with miniaudio
+すみません、駅は、ここから遠いですか?
+--- ja2 (forced lang=ja)
+大丈夫ですよ 七時に行くと彼に伝えてもらえますか--- ja2 (auto)
+read_audio_data: reading audio data from 'ja2.wav' ...
+read_audio_data: trying to decode with miniaudio
+大丈夫ですよ 七時に行くと彼に伝えてもらえますか
+--- zh1 (forced lang=zh)
+不好意思,請問火車站離這離遠嗎?--- zh1 (auto)
+read_audio_data: reading audio data from 'zh1.wav' ...
+read_audio_data: trying to decode with miniaudio
+不好意思,請問火車站離這離遠嗎?
+--- zh2 (forced lang=zh)
+沒關係,我可以等。你能告訴他我七點到嗎?--- zh2 (auto)
+read_audio_data: reading audio data from 'zh2.wav' ...
+read_audio_data: trying to decode with miniaudio
+沒關係,我可以等。你能告訴他我七點到嗎?
+--- zhtw1 (forced lang=zh)
+不好意思,请问火车站离这里远吗?--- zhtw1 (auto)
+read_audio_data: reading audio data from 'zhtw1.wav' ...
+read_audio_data: trying to decode with miniaudio
+不好意思,请问火车站离这里远吗?
+--- zhtw2 (forced lang=zh)
+沒關係,我可以等。你能告訴他我切點刀嗎?--- zhtw2 (auto)
+read_audio_data: reading audio data from 'zhtw2.wav' ...
+read_audio_data: trying to decode with miniaudio
+沒關係,我可以等。你能告訴他我切點刀嗎?
+--- ms1 (forced lang=ms)
+ Maaf, spesien kereta api jauh dari sinita.--- ms1 (auto)
+read_audio_data: reading audio data from 'ms1.wav' ...
+read_audio_data: trying to decode with miniaudio
+--- ms2 (forced lang=ms)
+ "Tak apa, saya boleh tunggu, boleh beritahu dia saya sampai pukul 7."--- ms2 (auto)
+read_audio_data: reading audio data from 'ms2.wav' ...
+read_audio_data: trying to decode with miniaudio
+--- tl1 (forced lang=tl)
+ Pasensya na po, malayo ba ang station ng tren mula dito?--- tl1 (auto)
+read_audio_data: reading audio data from 'tl1.wav' ...
+read_audio_data: trying to decode with miniaudio
+--- tl2 (forced lang=tl)
+ po kailang maghihintaya o pakisabi sa kanya na daratin ako ng alas yet pa.--- tl2 (auto)
+read_audio_data: reading audio data from 'tl2.wav' ...
+read_audio_data: trying to decode with miniaudio
+=================== MODEL large-v3-turbo-q5_0
+--- en1 (forced lang=en)
+ Hi, I'm looking for the train station. Is it far from here?--- en1 (auto)
+read_audio_data: reading audio data from 'en1.wav' ...
+read_audio_data: trying to decode with miniaudio
+--- en2 (forced lang=en)
+ No worries. I can wait. Could you tell him I'll be there at 7?--- en2 (auto)
+read_audio_data: reading audio data from 'en2.wav' ...
+read_audio_data: trying to decode with miniaudio
+--- ja1 (forced lang=ja)
+すみません、駅はここから遠いですか?--- ja1 (auto)
+read_audio_data: reading audio data from 'ja1.wav' ...
+read_audio_data: trying to decode with miniaudio
+すみません、駅はここから遠いですか?
+--- ja2 (forced lang=ja)
+大丈夫ですよ、7時に行くと彼に伝えてもらえますか?--- ja2 (auto)
+read_audio_data: reading audio data from 'ja2.wav' ...
+read_audio_data: trying to decode with miniaudio
+大丈夫ですよ、7時に行くと彼に伝えてもらえますか?
+--- zh1 (forced lang=zh)
+不好意思,请问火车站离这里远吗?--- zh1 (auto)
+read_audio_data: reading audio data from 'zh1.wav' ...
+read_audio_data: trying to decode with miniaudio
+不好意思,请问火车站离这里远吗?
+--- zh2 (forced lang=zh)
+没关系,我可以等,你能告诉他我七点到吗?--- zh2 (auto)
+read_audio_data: reading audio data from 'zh2.wav' ...
+read_audio_data: trying to decode with miniaudio
+没关系,我可以等,你能告诉他我七点到吗?
+--- zhtw1 (forced lang=zh)
+不好意思,请问火车站离这里远吗?--- zhtw1 (auto)
+read_audio_data: reading audio data from 'zhtw1.wav' ...
+read_audio_data: trying to decode with miniaudio
+不好意思,请问火车站离这里远吗?
+--- zhtw2 (forced lang=zh)
+没关系,我可以等,你能告诉他我七点到吗?--- zhtw2 (auto)
+read_audio_data: reading audio data from 'zhtw2.wav' ...
+read_audio_data: trying to decode with miniaudio
+没关系,我可以等,你能告诉他我七点到吗?
+--- ms1 (forced lang=ms)
+ Maaf, stesen kereta api jauh dari sini tak.--- ms1 (auto)
+read_audio_data: reading audio data from 'ms1.wav' ...
+read_audio_data: trying to decode with miniaudio
+--- ms2 (forced lang=ms)
+ Tak apa, saya boleh tunggu, boleh beritahu dia saya sampai pukul 7.--- ms2 (auto)
+read_audio_data: reading audio data from 'ms2.wav' ...
+read_audio_data: trying to decode with miniaudio
+--- tl1 (forced lang=tl)
+ Pasensya na po, malayo ba ang istasyon ng tren mula dito?--- tl1 (auto)
+read_audio_data: reading audio data from 'tl1.wav' ...
+read_audio_data: trying to decode with miniaudio
+--- tl2 (forced lang=tl)
+ Po kailang maghihintaya o pakisabi sa kanya na daratin ako ng alasyed.--- tl2 (auto)
+read_audio_data: reading audio data from 'tl2.wav' ...
+read_audio_data: trying to decode with miniaudio

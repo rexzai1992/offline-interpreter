@@ -1,0 +1,39 @@
+# Infinix X6871 (Android 15, MediaTek MT6896), development build, 2026-11-08.
+# Synthetic 16 kHz test clips (verification/desktop/audio), language forced unless 'auto'; encoder window via audio_ctx (min 512).
+
+[selftest-asrmodel] whisper-small-q8_0 en1.wav 3.7s → 2895ms :: Hi, I'm looking for the train station. Is it far from here?
+[selftest-asrmodel] whisper-small-q8_0 en2.wav 3.7s → 3361ms :: No worries, I can wait. Could you tell him I'll be there at seven?
+[selftest-asrmodel] whisper-small-q8_0 ja1.wav 3.0s → 2912ms :: すみません、駅は、ここから遠いですか?
+[selftest-asrmodel] whisper-small-q8_0 ja2.wav 4.5s → 3403ms :: 大丈夫ですよ、7時に行くと、彼に伝えてもらえますか?
+[selftest-asrmodel] whisper-small-q8_0 ms1.wav 3.3s → 3369ms :: Maaf, sepesan kereta api jauh dari sinita.
+[selftest-asrmodel] whisper-small-q8_0 ms2.wav 5.1s → 3858ms :: "Tak apa, saya boleh tunggu, boleh beritahu dia saya sampai pukul 7."
+[selftest-asrmodel] whisper-small-q8_0 tl1.wav 4.5s → 3486ms :: Pasensya na po, malayo ba ang station ng tren mula dito?
+[selftest-asrmodel] whisper-small-q8_0 tl2.wav 5.5s → 3470ms :: po kailang maghihintaya o pakisabi sa kanya, nadarati na ko ng alaset pa.
+[selftest-asrmodel] whisper-small-q8_0 zh1.wav 3.4s → 2815ms :: 不好意思,請問火車站離這離遠嗎?
+[selftest-asrmodel] whisper-small-q8_0 zh2.wav 4.3s → 3107ms :: 沒關係,我可以等。你能告訴他我7點到嗎?
+[selftest-asrmodel] whisper-small-q8_0 zhtw1.wav 3.2s → 2897ms :: 不好意思,请问火车站离这里远吗?
+[selftest-asrmodel] whisper-small-q8_0 zhtw2.wav 4.2s → 3065ms :: 沒關係,我可以等。你能告訴他我起點到嗎?
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 en1.wav 3.7s → 35011ms :: Hi, I'm looking for the train station. Is it far from here? Hi, I'm looking for the train station. Is it far from here?
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 en2.wav 3.7s → 28071ms :: No worries. I can wait. Could you tell him I'll be there at 7?
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 ja1.wav 3.0s → 21069ms :: すみません、駅はここから遠いですか?
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 ja2.wav 4.5s → 21052ms :: 大丈夫ですよ。7時に行くと彼に伝えてもらえますか?
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 ms1.wav 3.3s → 21360ms :: Maaf, spesen kereta api jauh dari sini tak.
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 ms2.wav 5.1s → 21433ms :: Tak apa, saya boleh tunggu, boleh beritahu dia saya sampai pukul 7. Tidak apa, saya boleh tunggu, boleh beritahu dia saya sampai pukul 7.
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 tl1.wav 4.5s → 21255ms :: Pasensya na po, malayo ba ang istasyon ng tren mula dito?
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 tl2.wav 5.5s → 21258ms :: Po kailang maghihintaya o pakisabi sa kanya na daratin ako ng alasyet.
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 zh1.wav 3.4s → 20814ms :: 不好意思,请问火车站离这里远吗?
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 zh2.wav 4.3s → 22373ms :: 没关系,我可以等,你能告诉他我七点到吗?
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 zhtw1.wav 3.2s → 24352ms :: 不好意思,请问火车站离这里远吗?
+[selftest-asrmodel] whisper-large-v3-turbo-q5_0 zhtw2.wav 4.2s → 21557ms :: 没关系,我可以等,你能告诉他我七点到吗?
+[selftest-asrmodel] whisper-base-q8_0 en1.wav 3.7s → 959ms :: Hi, I'm looking for the train station. Is it far from here?
+[selftest-asrmodel] whisper-base-q8_0 en2.wav 3.7s → 990ms :: No worries, I can wait, could you tell him I'll be there at 7?
+[selftest-asrmodel] whisper-base-q8_0 ja1.wav 3.0s → 935ms :: すみません、駅はここからどういですか?
+[selftest-asrmodel] whisper-base-q8_0 ja2.wav 4.5s → 1026ms :: 大丈夫ですよ、知事に行くと、彼に伝えてもらえますか。
+[selftest-asrmodel] whisper-base-q8_0 ms1.wav 3.3s → 960ms :: Maaf, Skesan kereta api jauh dari sinita.
+[selftest-asrmodel] whisper-base-q8_0 ms2.wav 5.1s → 1090ms :: "Tah apa, saya boleh tunggu, boleh berita hu dia saya sampai 17.7.
+[selftest-asrmodel] whisper-base-q8_0 tl1.wav 4.5s → 1021ms :: Pasen sya na po, malayu ba ang istasyo ng tren mula dito.
+[selftest-asrmodel] whisper-base-q8_0 tl2.wav 5.5s → 1091ms :: Pukay lang mag-ihintay ako pakisabi sa kanya, nadaratin ako ng alasjet.
+[selftest-asrmodel] whisper-base-q8_0 zh1.wav 3.4s → 935ms :: 不好意思,請問火車站離這離遠嗎?
+[selftest-asrmodel] whisper-base-q8_0 zh2.wav 4.3s → 945ms :: 沒關係,我可以等,你能告訴他我7點到嗎?
+[selftest-asrmodel] whisper-base-q8_0 zhtw1.wav 3.2s → 1222ms :: 不好意思,請問火車站離這裡遠嗎?
+[selftest-asrmodel] whisper-base-q8_0 zhtw2.wav 4.2s → 1105ms :: 沒關係,我可以等,你能告訴他我起點到嗎?
